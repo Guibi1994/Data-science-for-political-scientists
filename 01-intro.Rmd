@@ -1,0 +1,11 @@
+# Nociones básicas de R
+
+Para empezar a utilizar R, es necesario [primero descargar el programa](https://cran.r-project.org/bin/windows/base/ "Descarga R directamente desde CRAN"), y preferiblemente tambien [descargar la interfas *Rstudio*](https://www.rstudio.com/products/rstudio/download/ "Descarga la interfáz de Rstudio"). R es un lenguaje de programación, y *Rstudio* es un entorno en el cuál podemos tener más y vizualización en nuestra interacción con este lenguaje. Un ejemplo útil de esto es la diferencia que hay entre JavaScript y Goolge Chrome: A través de JavaScript y http nos comunicamos con internet, pero a través de Google Chrome intercatuamos con una experienia de usuario con estos protocolos y códigos.
+
+**Un leguaje de programció orientado a objetos**
+
+**R** es un *lengaje de progrmación orientado a objetos**.*** Esto quiere decir, que por ejemplo
+
+```{r}
+
+```

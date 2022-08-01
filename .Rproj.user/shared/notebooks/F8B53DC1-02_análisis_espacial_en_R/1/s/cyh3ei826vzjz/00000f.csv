@@ -1,0 +1,5 @@
+"0","library(dplyr) # Manejo de bases de datos"
+"0","library(tidyr) # Manejo de bases de datos"
+"0","library(ggplot2) # Creación de gráficas"
+"0","library(googledrive) # Conexión con google drive (para descargar datos de pruebas)"
+"0",""

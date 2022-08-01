@@ -1,0 +1,3 @@
+"0",""
+"0","a01_homicidios %>% ggplot(aes(longitude, latitude))+"
+"0","    geom_point()+coord_equal()"

@@ -1,0 +1,32 @@
+{
+    "id": "30F4FD20",
+    "path": "C:/Users/guibo/Desktop/Proyectos personales/Data-science-for-political-scientists/01-intro.Rmd",
+    "project_path": "01-intro.Rmd",
+    "type": "r_markdown",
+    "hash": "3317417341",
+    "contents": "",
+    "dirty": false,
+    "created": 1659283001866.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,26",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "692:0",
+        "docOutlineSize": "133"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1659384800,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1659384800678,
+    "read_only": false,
+    "read_only_alternatives": []
+}

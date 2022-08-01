@@ -1,0 +1,31 @@
+---
+title: ""
+author: "Guibor Camargo"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+# **Ciencia de datos para politologues** {-}
+
+------------------------------------------------------------------------
+
+"*Ciencia de datos para politologues*" es un libro práctico sobre las principales técnicas de análisis de datos en **R**. El libro contiene los conceptos y técnicas basicas tanto estadística como computacionales, que son de indispensables conocimiento para estudiante ciencias políticas, relaciones internacionales y/o gestión y desarollo urbanos. Por el lado de la estadística, los contenidos de este libro van desde concepos básicos de estadística descriptiva, hasta el repaso general y práctico de técnicas econométricas de evaluación de impacto y *machine learning*. Por el lado de programación, este libro busca explicar desde el manejo básico de **R**, hasta algunas técnicas de computación en la nube y la creación de algóritmos de extracción de información y análisis de téxtos (*text-mining*).
+
+**Un poco sobre mi**
+
+Mi nombre es Guibor, pero por lo general me dicen "Guibi". Estudie gestión y desarrollo urbanos en la Facultad de estudios Políticas, Internacionales y Urbanos, de la *Universidad del Rosario* (Colombia), y en esta misma universidad realice mis estudioes de maestría en economía y economía de las políticas públicas. En el día a día trabajo como cíentífico de datos y me gusta mucho tambien trabajar en algunas investigaciones idependientes en diversos temas. [Aqui un poco más de mi peril](https://www.linkedin.com/in/guibor-camargo-salamanca-69bb1981/ "Linked-in de Guibi").
+
+**¿Un libro más de ciencia de datos y R? ¿Para qué?**
+
+A lo lagro de mi carrera y en mi ejercicio como investigador, me ha costado mucho encontrar una guía que explique ciertas nociones básicas de estadística y programación para personas que no tengan una formación profesional en máteáticas, estadística y/o economía. Por otro lado, tambien he luchado (y visto muchos luchar) a la hora de trabajar con softwares liecenciados y pagos como Office, ArcGIS, Stata y mucos otros, en los que uno se puede ver atrapado en una de dos sitaciones: O consigues una licencia paga (muy cara) de manera directa o através de la universidad (a través de tramites tediosos que toca anualmente re-hacer), o consigues una licencia pirata exponiendo tu información y tus equipos a cualquier forma de *malware*. Finalmente, si bien hay muy buenos y numerosos recursos en línea, pero estan dispersos, muchas veces solo en ingles, o simplemente son requiren de un buen conocimiento previo de matemáticas, estadística y/o programación e ingeneria de datos para entenderlos, o para entender como se pueden aplicar al mundo del análisis de políticas públicas y sitaciones socio-políticas.
+
+De este modo, este libro busca que cualquier polítologue tenga un muy buen arsenal de herramientas de análisis, y pueda tener (sin importar su conocimiento previo en matemáticas, estadística, programación e ingeneria) una noción básica pero muy robusta de cómo funciona el mundo de la tecnología aplicada a los probelas de ivestigación del día a día. Y finalmente, el libro busca brindar estos conocimientos a través de aprender el uso de **R**: un lenguaje/sofware de programación oppen source, al alcance de cualquiera con un computaror de manear gratuita y libre, y con una de las comunidades más grande de usuarios en el mundo.
+
+"<https://www.youtube.com/watch?v=9i0ElncHGRg>"
+
+[guibor.camargo\@urosario.edu.co](mailto:guibor.camargo@urosario.edu.co){.email}
